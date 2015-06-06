@@ -1,0 +1,17 @@
+/.metadata/
+/.settings/
+/.idea
+*.pyc
+*.bak
+*.xml
+/tmp
+/log/9_16
+
+captureTMP.bmp
+infoCollect.txt
+infoCollect.txt
+captureTMP.bmp
+infoCollect1.txt
+match.txt
+capture_tmp.bmp
+capture_tmp.bmp
