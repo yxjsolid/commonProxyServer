@@ -255,8 +255,8 @@ if __name__ == "__main__":
 
     proxyIp = "0.0.0.0"
     proxyPort = 443
-    proxySrvCert="cert.pem"
-    proxyKeyf="key.pem"
+    proxySrvCert="cacert.pem"
+    proxyKeyf="cakey.pem"
     serverPort = 443
 
     #104.36.192.237

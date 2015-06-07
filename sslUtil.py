@@ -10,7 +10,7 @@ import threading
 # resp = response.read()
 
 MY_SSL_PORT = 443
-MY_SSL_PROTOCOL = ssl.PROTOCOL_TLSv1
+MY_SSL_PROTOCOL = ssl.PROTOCOL_SSLv3
 
 class MY_HTTP_READER():
     def __init__(self):
